@@ -1,0 +1,12 @@
+.navbar {
+    background-color: blueviolet;
+    color: azure;
+}
+
+li:hover {
+    background-color: #198754;
+}
+
+svg {
+    color: black;
+}
